@@ -1,0 +1,2 @@
+20230701	17:41:07	3b111aa8-991e-4d69-9332-05308ff461b8	Error: Not allowed by CORS
+20230701	17:41:47	db0c643e-5a61-47b4-9599-df5cb10b6a6b	Error: Not allowed by CORS
